@@ -1,0 +1,16 @@
+ttorch>=2.0,<3.0
+torchvision>=0.15,<1.0
+transformers>=4.40,<5.0
+accelerate>=0.28,<1.0
+evaluate>=0.4,<1.0
+opencv-python>=4.10,<5.0
+numpy>=1.26,<3.0
+Pillow>=10.0,<12.0
+geopandas>=1.0,<2.0
+shapely>=2.0,<3.0
+rasterio>=1.3,<2.0
+fiona>=1.10,<2.0
+pyproj>=3.6,<4.0
+tqdm>=4.66,<5.0
+matplotlib>=3.8,<4.0
+scikit-image>=0.22,<1.0
