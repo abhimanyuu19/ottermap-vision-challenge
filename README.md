@@ -159,6 +159,13 @@ During development, it was observed that the provided aerial imagery does not in
 - Perform hyperparameter tuning.
 - Support batch inference on multiple images.
 - Export additional GIS formats such as Shapefile.
+## Dataset
+
+The original challenge dataset is **not included** in this repository.
+
+To reproduce this project, place the dataset inside the `data/` directory while maintaining the expected folder structure described in this repository.
+
+The dataset was excluded to keep the repository lightweight and to respect the challenge dataset distribution.
 
 ## Author
 
